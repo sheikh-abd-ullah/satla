@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/satla/static/css/main.36c04721.css",
+    "main.js": "/satla/static/js/main.706ec24f.js",
+    "static/js/787.99ff09fd.chunk.js": "/satla/static/js/787.99ff09fd.chunk.js",
+    "static/media/cover.png": "/satla/static/media/cover.db4257ab1e63ece0ef2e.png",
+    "static/media/pic2.png": "/satla/static/media/pic2.7c44fd1a6dc8fda91626.png",
+    "static/media/pic1.png": "/satla/static/media/pic1.8dfeaf7c9b36859e1667.png",
+    "static/media/pic6.png": "/satla/static/media/pic6.60a3a8c00048f64483f5.png",
+    "static/media/pic3.png": "/satla/static/media/pic3.ec7451e98804cb379a64.png",
+    "static/media/pic5.png": "/satla/static/media/pic5.f18290d78490d54a5363.png",
+    "static/media/pic4.png": "/satla/static/media/pic4.55d92161909006a085d3.png",
+    "static/media/pic7.png": "/satla/static/media/pic7.af8725fb62554d7d1874.png",
+    "index.html": "/satla/index.html",
+    "main.36c04721.css.map": "/satla/static/css/main.36c04721.css.map",
+    "main.706ec24f.js.map": "/satla/static/js/main.706ec24f.js.map",
+    "787.99ff09fd.chunk.js.map": "/satla/static/js/787.99ff09fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36c04721.css",
+    "static/js/main.706ec24f.js"
+  ]
+}
